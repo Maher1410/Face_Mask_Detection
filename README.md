@@ -6,6 +6,8 @@ In the face of a global pandemic, this project contributes towards ensuring safe
 
 You can try out the model through the Gradio interface or delve into the code to understand the mechanics of the model. This repository contains all relevant files, including the model architecture, training process, and evaluation metrics.
 
+Dataset Link: https://www.kaggle.com/datasets/prithwirajmitra/covid-face-mask-detection-dataset
+
 Feel free to explore, clone, or fork this project, and don't hesitate to open an issue if you encounter any problems or have suggestions for improvements. Your feedback and contributions are always appreciated! 
 
 Let's leverage machine learning to create a safer world together! #MachineLearning #CNN #Gradio #FaceMaskDetection
